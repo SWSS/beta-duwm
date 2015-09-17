@@ -37,6 +37,8 @@ h2 {
 }
 p {
   margin: 0 0 1.2em;
+  color: red;
+  background-color: blue;
 }
 del {
   text-decoration: line-through;
