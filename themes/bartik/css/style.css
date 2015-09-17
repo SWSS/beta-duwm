@@ -37,9 +37,8 @@ h2 {
 }
 p {
   margin: 0 0 1.2em;
-  color: blue;
-  background-color: green;
-  font-size: 20px;
+  color: red;
+  background-color: blue;
 }
 del {
   text-decoration: line-through;
